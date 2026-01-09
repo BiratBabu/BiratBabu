@@ -9,6 +9,7 @@ I am an aspiring Data Analyst from Jaipur with a background in administrative wo
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manojbirat@gmail.com) 
 
 # 💻 Tech Stack:
+![Excel](https://img.shields.io/badge/Excel-F2C811?style=for-the-badge&logo=Excel&logoColor=black) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![SQL](https://img.shields.io/badge/SQL-%5837A8FF.svg?style=for-the-badge&logo=SQL&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-8567A8FF.svg?style=for-the-badge&logo=Python&logoColor=white)
